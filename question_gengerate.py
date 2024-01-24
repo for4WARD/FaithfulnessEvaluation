@@ -71,7 +71,7 @@ for i in range(len(lines1)):
         ]
         )
         ans["model_ans"].append(completion.choices[0].message['content'])
-
+    json_ans.append(ans)
     
 with open('target.json', 'w') as outfile:
     json.dump(json_ans, outfile)

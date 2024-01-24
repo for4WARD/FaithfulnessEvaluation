@@ -50,6 +50,7 @@ for i in range(len(lines1)):
         ]
         )
         ans["text_ans"].append(completion.choices[0].message['content'])
+    json_ans.append(ans)
 with open('target_free.json', 'w') as outfile:
     json.dump(json_ans, outfile)
 

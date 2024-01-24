@@ -1,0 +1,2994 @@
+[
+    {
+        "order": 420,
+        "content": "israel on monday demolished the home of the palestinian attacker who died in a suicide bus bombing in tel aviv last month .",
+        "question": [
+            "Did the demolition of the Palestinian attacker's home take place on Monday?",
+            "Was the attacker's home located in Tel Aviv?",
+            "Was the attacker still alive when his home was demolished?",
+            "Was the attack a suicide bus bombing act?",
+            "Was the attacker from Israel?",
+            "Was the attacker's home demolished in Jerusalem?",
+            "Did the bus bombing take place last year?",
+            "Was the suicide bombing executed on a train?"
+        ],
+        "true_summary": "israel demolishes home of tel aviv bus bomber",
+        "human_score": 8,
+        "human_eva": [
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "candidate_inter": "israel home of palestinian attacker in suicide bus bombing in aviv",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "order": 267,
+        "content": "all ## u.s. servicemen aboard a military helicopter that crashed two days ago are believed to be dead , an american general said sunday .",
+        "question": [
+            "Did a military helicopter crash recently?",
+            "Were all U.S servicemen aboard the helicopter believed to be alive?",
+            "Was the statement about the servicemen's condition made by a British general?",
+            "Was the condition of the servicemen commented on Sunday?",
+            "Did the helicopter crash five days ago?",
+            "Was the news about the helicopter crash published on Monday?",
+            "Was the military helicopter carrying Canadian servicemen?",
+            "Did the helicopter crash three days ago?"
+        ],
+        "true_summary": "u.s. general says no chance of finding survivors from helicopter",
+        "human_score": 7,
+        "candidate_inter": "## u.s. servicemen aboard helicopter believed to be dead",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 108,
+        "content": "tiger woods had a short stay at riviera , withdrawing after two rounds with the flu .",
+        "question": [
+            "Did Tiger Woods have a short stay at Riviera?",
+            "Did Tiger Woods withdraw due to an injury?",
+            "Did Tiger Woods withdraw after four rounds?",
+            "Was Tiger Woods suffering from the flu?",
+            "Did Tiger Woods win at Riviera?",
+            "Was Tiger Woods at Riviera?",
+            "Was Tiger Woods suffering from a cold?",
+            "Was Tiger Woods at Augusta?"
+        ],
+        "true_summary": "tiger could be in for another short week at fickle match play",
+        "human_score": 6,
+        "candidate_inter": "tiger woods at riviera after rounds with flu",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 295,
+        "content": "danys baez has been told by the cleveland indians that his future with the organization is in the bullpen .",
+        "question": [
+            "Has Danys Baez been told by the Cleveland Indians that his future is in the bullpen?",
+            "Did the Boston Red Sox tell Danys Baez that his future was in the bullpen?",
+            "Has Danys Baez been informed that his future within the organization is as a starting pitcher?",
+            "Is Danys Baez's future with the Los Angeles Dodgers in the bullpen?",
+            "Is the information about the future position of Danys Baez in the Cleveland Indians not provided?"
+        ],
+        "true_summary": "cuban defector headed for bullpen",
+        "human_score": 7,
+        "candidate_inter": "baez indians future with in bullpen",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 577,
+        "content": "germany scored two goals in each half against ##-man australia to lead #-# after ## minutes of their world cup match sunday .",
+        "question": [
+            "Did Germany play against Australia in a World Cup match?",
+            "Did Germany score four goals in the match?",
+            "Did Germany score two goals in the first half?",
+            "Did Germany score two goals in the second half?",
+            "Did Germany play against Brazil?",
+            "Did the game end after 90 minutes?",
+            "Did Australia win the match?",
+            "Was the match held on a Sunday?"
+        ],
+        "true_summary": "germany leads australia #-# after ## minutes",
+        "human_score": 7,
+        "candidate_inter": "germany in half against ##-man australia to lead #-# after ## minutes world cup",
+        "context_Answer": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "order": 121,
+        "content": "japan 's benchmark stock index fell #.# percent to a #-week low monday as banking shares slumped on more worries about u.s. subprime mortgages .",
+        "question": [
+            "Did Japan's benchmark stock index rise?",
+            "Did the stock index fall?",
+            "Did banking shares in Japan rise?",
+            "Did the worries about U.S. subprime mortgages impact the slump in banking shares?",
+            "Was the stock index at a 52-week high?",
+            "Did the stock index hit a #-week low?",
+            "Did the worries about European subprime mortgages cause the slump?",
+            "Did the value of tech shares slump?",
+            "Did the value of banking shares increase?",
+            "Did the stock index rise to a #-week high?"
+        ],
+        "true_summary": "tokyo s nikkei index falls #.# percent as banks slump on us mortgage worries",
+        "human_score": 5,
+        "candidate_inter": "j #.# percent #-week low shares on subprime",
+        "context_Answer": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 1,
+        "content": "u.s. , albanian , croatian and macedonian soldiers began a monthlong joint military exercise tuesday , the u.s. embassy said tuesday .",
+        "question": [
+            "Did the joint military exercise begin on Tuesday?",
+            "Is the joint military exercise only between the U.S. and Albania?",
+            "Is Croatian military involved in the joint exercise?",
+            "Did the French military participate in the joint exercise?",
+            "Was the announcement made by the U.S. Embassy?",
+            "Did the joint military exercise last for a year?",
+            "Did Macedonian soldiers participate in the joint exercise?",
+            "Did the news summary provide information about the purpose of the exercise?",
+            "Did the exercise commence on Wednesday?",
+            "Is the joint exercise expected to last for a month?"
+        ],
+        "true_summary": "u.s. albania croatia macedonia hold joint military exercise",
+        "human_score": 10,
+        "candidate_inter": "u.s. albanian croatian and macedonian soldiers joint military exercise.s.",
+        "context_Answer": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 574,
+        "content": "kyrgyz mobs burned uzbek villages and slaughtered their residents sunday as ethnic rioting engulfed new areas in southern kyrgyzstan .",
+        "question": [
+            "Did Kyrgyz mobs burn Uzbek villages?",
+            "Did the rioting engulfs northern kyrgyzstan?",
+            "Did the kyrgyz mobs slaughter the residents of Uzbek villages?",
+            "Was the rioting due to religious disagreements?",
+            "Are the rioting taking place in new areas of Kyrgyzstan?",
+            "Was there an incident in Uzbekistan involving rioting Kyrgyz mobs?",
+            "Is the burning happening in old areas of Kyrgyzstan?",
+            "Did Chinese mobs participate in the ethnic rioting?"
+        ],
+        "true_summary": "mobs burn villages slaughter uzbeks in kyrgyzstan",
+        "human_score": 9,
+        "candidate_inter": "kyrgyz mobs uzbek villages as ethnic rioting in southern kyrgyzstan",
+        "context_Answer": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    {
+        "order": 218,
+        "content": "many filipinos tried to rebuild their lives monday after saving little more than the clothes they wore in a tropical storm and the capital 's worst flooding in more than four decades .",
+        "question": [
+            "Did many Filipinos try to rebuild their lives after a tropical storm on Monday?",
+            "Was there a significant amount of flooding in the capital?",
+            "Did this event happen more than four decades ago?",
+            "Did most Filipinos save more than their clothes?",
+            "Was it the worst flooding in more than five decades?",
+            "Did the storm strike on a Tuesday?",
+            "Was the event related to a snowstorm?",
+            "Were digital belongings saved from the flood?",
+            "Was the capital of Philippines affected by the tropical storm?"
+        ],
+        "true_summary": "philippine storm leaves ## dead ## missing",
+        "human_score": 9,
+        "candidate_inter": "many filipinos to rebuild lives after in storm in",
+        "context_Answer": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "order": 318,
+        "content": "the new york yankees ended boston 's ##-game winning streak tuesday night , scoring five unearned runs in the second inning and then pulling away for a #-# victory .",
+        "question": [
+            "Did the New York Yankees end Boston's winning streak?",
+            "Did Boston win the game against the New York Yankees?",
+            "Did the New York Yankees score five unearned runs in the second inning?",
+            "Did the game end in a tie?",
+            "Was the game played on Wednesday night?",
+            "Did Boston score five unearned runs in the second inning?",
+            "Was the game played on Tuesday night?",
+            "Did the Boston team pull away for a victory?",
+            "Did the New York Mets end Boston's winning streak?",
+            "Did the Yankees lose the game?"
+        ],
+        "true_summary": "by the associated press yankees halt red sox ##-game winning streak",
+        "human_score": 7,
+        "candidate_inter": "ankees boston ##-game winning streak un in #-#",
+        "context_Answer": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 193,
+        "content": "it has a cast of hundreds , dozens of horses , gladiators , a sea battle and a live chariot race .",
+        "question": [
+            "Does the cast consist of hundreds of people?",
+            "Are there no horses?",
+            "Does the sea battle involve gladiators?",
+            "Is there a live football match?",
+            "Is there a live chariot race?",
+            "Does the cast consist of thousands of people?",
+            "Are there dozens of dogs?",
+            "Is there a sailing competition?"
+        ],
+        "true_summary": "stage spectacular ben hur live opens in london",
+        "human_score": 0,
+        "candidate_inter": "a of of a a chariot race",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1
+        ]
+    },
+    {
+        "order": 299,
+        "content": "fighting between indian police and separatist guerrillas sunday in the northern state of jammu-kashmir killed at least ## rebels , police said .",
+        "question": [
+            "Did the fighting take place in the southern state of Jammu-Kashmir?",
+            "Did the fighting involve Indian police and separatist guerrillas?",
+            "Did the fighting happen on a Monday?",
+            "Was the fighting in Jammu-Kashmir?",
+            "Did the fighting result in the death of police officers?",
+            "Were ## rebels killed in the fighting?",
+            "Was the fight against domestic terrorists?",
+            "Did the fighting occur in the city center?",
+            "Did the fighting take place in the northeastern state of Manipur?",
+            "Did the event happen on a Sunday?"
+        ],
+        "true_summary": "police kill ## guerrillas in gun battle",
+        "human_score": 8,
+        "human_eva": [
+            1,1,1,0
+        ],
+        "candidate_inter": "between indian police in northernkashmir killed at least ## rebels police",
+        "context_Answer": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1
+        ],
+        "true_summary_ans": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "order": 495,
+        "content": "organizers say anti-abortion groups are marching in cities across spain to protest government plans to reform the law .",
+        "question": [
+            "Are anti-abortion groups protesting in Spain?",
+            "Are the protests in response to government plans to reform the law?",
+            "Are the protests occurring in only one city in Spain?",
+            "Are the protests in support of the government's plan to reform the law?",
+            "Are the protests led by pro-choice groups?",
+            "Is the law that the government plans to reform related to taxes?",
+            "Has the government already reformed the law?",
+            "Are the organizers against the protests?",
+            "Are the protests being held in France?",
+            "Was the information about the protests provided by organizers?"
+        ],
+        "true_summary": "spanish groups march in anti-abortion protest",
+        "human_score": 9,
+        "candidate_inter": "organ-abortion groups in spain to protest to reform",
+        "context_Answer": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 519,
+        "content": "the russian parliamentary election was both free and fair , foreign observers said monday , expressing optimism about the future of democracy in post-soviet russia .",
+        "question": [
+            "Was the Russian parliamentary election deemed free and fair?",
+            "Were the foreign observers pessimistic about the future of democracy in post-soviet Russia?",
+            "Did the foreign observers make their statements on a Tuesday?",
+            "Is the observation about an election in the United States?",
+            "Was the election observation about the presidential election?"
+        ],
+        "true_summary": "with <unk> observers praise russian election as free and fair",
+        "human_score": 8,
+        "candidate_inter": "the russian parliamentary election both free and fair observers democracy in- russia",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    {
+        "order": 231,
+        "content": "jon lee , the drummer for the welsh rock back feeder , killed himself in his home , officials said .",
+        "question": [
+            "Is Jon Lee a drummer?",
+            "Is Jon Lee part of the Welsh rock band Feeder?",
+            "Did Jon Lee commit suicide in his home?",
+            "Was Jon Lee killed by someone else?",
+            "Is Jon Lee the bassist for the Welsh rock band?",
+            "Did Jon Lee pass away in a hospital?",
+            "Is Jon Lee the manager of the Welsh rock band Feeder?",
+            "Was Jon Lee alive?",
+            "Was Jon Lee a member of an American rock band?",
+            "Was Jon Lee killed in a car accident?"
+        ],
+        "true_summary": "jon lee drummer of welsh band feeder kills himself in miami",
+        "human_score": 7,
+        "candidate_inter": "jon lee drummer for welsh rock back feeder himself in home",
+        "context_Answer": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    {
+        "order": 562,
+        "content": "iraqi officials say a car bomb has exploded in a shopping area in western baghdad , killing three people .",
+        "question": [
+            "Did a car bomb explode in a shopping area in western Baghdad?",
+            "Did the explosion happen in eastern Baghdad?",
+            "Were iraqi officials the ones that reported the car bombing?",
+            "Did the car bomb kill five people?",
+            "Did the car bomb kill three people?",
+            "Was the shopping area located in western Kabul?",
+            "Was the incident reported by Syrian officials?",
+            "Did the bombing take place in a residential area?",
+            "Did the car bomb explode in a park?",
+            "Is the number of casualties given in the report?",
+            "Are the identities of the victims disclosed in the report?"
+        ],
+        "true_summary": "iraq officials say car bomb kills # in baghdad",
+        "human_score": 7,
+        "candidate_inter": "car bomb in shopping in western baghdad",
+        "context_Answer": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "order": 174,
+        "content": "manila , philippines -- a ferry carrying nearly #,### passengers sank in the southern philippines early sunday , leaving at least five dead and more than ## missing .",
+        "question": [
+            "Did the ferry incident happen in Manila, Philippines?",
+            "Were there nearly 1,000 passengers on the ferry?",
+            "Did this incident occur on a Sunday?",
+            "Were there any fatalities reported?",
+            "Were there more than 20 people missing?",
+            "Did the accident happen in the northern Philippines?",
+            "Did the ferry sink in the afternoon?",
+            "Are all passengers safe and no one is missing?"
+        ],
+        "true_summary": "# dead ### people rescued from philippine ferry",
+        "human_score": 7,
+        "candidate_inter": "philippines ferry #### in southern philippines at least five ## missing",
+        "context_Answer": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 337,
+        "content": "a military helicopter crashed and caught fire wednesday while landing at an air base in southeastern turkey , injuring ## soldiers .",
+        "question": [
+            "Did the military helicopter crash?",
+            "Did the incident happen on Tuesday?",
+            "Was the helicopter landing at a naval base?",
+            "Did the helicopter catch fire?",
+            "Did this event occur in southeastern Turkey?",
+            "Do we know how many soldiers were injured?",
+            "Did the crash happen in northeastern Turkey?",
+            "Was the helicopter leaving the air base when it crashed?"
+        ],
+        "true_summary": "turkish military helicopter crashes ## injured",
+        "human_score": 5,
+        "candidate_inter": "a military helicopter fire air base in southeastern turkey ## soldiers",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 546,
+        "content": "after a month and a half in space , the crew of the international space station on monday anticipated shaking hands with their first visitors .",
+        "question": [
+            "Was the crew of the international space station in space for over a month?",
+            "Did the crew of the international space station expect to welcome visitors on Tuesday?",
+            "Was this the first time that the crew of the international space station would be receiving visitors?",
+            "Did the event happen on Mars?",
+            "Were the visitors expected on Monday?",
+            "Has it been six months since the crew of the international space station has been in space?",
+            "Was the crew of the space station planning to shake hands with incoming aliens?"
+        ],
+        "true_summary": "endeavour space crews to meet",
+        "human_score": 2,
+        "candidate_inter": "in space crew space station",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    {
+        "order": 134,
+        "content": "atletico madrid 's hopes of rising closer to the top of the spanish league were hit by a #-# draw at almeria on sunday .",
+        "question": [
+            "Did Atletico Madrid play a match on Sunday?",
+            "Did Atletico Madrid win the game?",
+            "Was the game played in Almeria?",
+            "Are Atletico Madrid's hopes of rising closer to the top of the Spanish league improved?",
+            "Did Atletico Madrid play against Barcelona?",
+            "Was the match held on a Wednesday?",
+            "Did the match result in a draw?",
+            "Was the game part of the Italian league?",
+            "Did Atletico Madrid play at home?",
+            "Did Atletico Madrid lose the game?"
+        ],
+        "true_summary": "atletico draws #-# with almeria in spanish league",
+        "human_score": 8,
+        "candidate_inter": "atletico madrid hopes spanish league #-# draw at almeria",
+        "context_Answer": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "order": 473,
+        "content": "a lebanese security official says a senior fatah official has been killed in an explosion in southern lebanon .",
+        "question": [
+            "Is the news about a Lebanese security official being killed?",
+            "Was a senior Fatah official killed in the incident?",
+            "Did the incident occur in southern Lebanon?",
+            "Was the official killed by an explosion?",
+            "Was the official from Hamas?",
+            "Did the explosion occur in Northern Lebanon?"
+        ],
+        "true_summary": "senior plo official killed in lebanon",
+        "human_score": 4,
+        "candidate_inter": "lebanese fatah official killed in explosion in southern lebanon",
+        "context_Answer": [
+            0,
+            1,
+            1,
+            1,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1,
+            0,
+            1,
+            1
+        ]
+    },
+    {
+        "order": 465,
+        "content": "new zealand was ### for five at lunch on the fourth day of the first cricket test on saturday , trailing india by ## runs with five second-innings wickets in hand .",
+        "question": [
+            "Is the cricket test on its fourth day?",
+            "Was the cricket test held in India?",
+            "Is New Zealand trailing by five runs?",
+            "Is this the second cricket test?",
+            "Is this the first cricket test?",
+            "Does New Zealand still have five second-innings wickets in hand?",
+            "Did the cricket test occur on a Sunday?",
+            "Did Australia play in this cricket test?"
+        ],
+        "true_summary": "new zealand ###-# at lunch day #",
+        "human_score": 3,
+        "candidate_inter": "new zealand ### for five at lunch on fourth day of first test india with- in",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 285,
+        "content": "five teen-agers were killed when their speeding car slammed into the cab of an ##-wheel truck , police said .",
+        "question": [
+            "Were five teenagers killed in a car crash?",
+            "Did the teenagers' car hit a four-wheel truck?",
+            "Was the truck involved in the accident an eighteen-wheel truck?",
+            "Did the police say that the car was not speeding?",
+            "Were the teenagers riding bikes?",
+            "Were the teenagers injured in the incident?",
+            "Did this incident take place in a suburban area?"
+        ],
+        "true_summary": "# killed in two texas car wrecks",
+        "human_score": 2,
+        "candidate_inter": "five teen-agers killed car- truck",
+        "context_Answer": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "order": 446,
+        "content": "malaysia 's parliament has voted to suspend a prominent opposition lawmaker for one year after he accused malaysia 's next prime minister of being a murderer .",
+        "question": [
+            "Did Malaysia's parliament vote to suspend a prominent opposition lawmaker?",
+            "Was the suspension of the opposition lawmaker for two years?",
+            "Was the accusation against the next prime minister related to him being a murderer?",
+            "Was the person accused of being a murderer the current Prime Minister of Malaysia?",
+            "Did the lawmaker who is facing suspension belong to the ruling party?",
+            "Is the opposition lawmaker from Singapore?",
+            "Did the parliament suspend the lawmaker for making false accusations?",
+            "Was the lawmaker suspended for a duration of one year?"
+        ],
+        "true_summary": "malaysia lawmaker booted out over murder outburst",
+        "human_score": 9,
+        "candidate_inter": "malaysia parliament to suspend opposition lawmaker for one year after malaysia of a murderer",
+        "context_Answer": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "pic_ans": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 584,
+        "content": "`` toy story # '' has become the favorite plaything for moviegoers as the animated sequel heads to a $ <unk> opening weekend .",
+        "question": [
+            "Is Toy Story # an animated sequel?",
+            "Did Toy Story # have an opening weekend?",
+            "Did Toy Story # fail at the box office?",
+            "Is Toy Story # a favorite among book readers?",
+            "Is Toy Story # a live-action film?",
+            "Was the actual revenue figures for Toy Story's opening weekend provided?",
+            "Is Toy Story # disliked by moviegoers?",
+            "Was the film Jaws mentioned in the summary?",
+            "Did the movie have a $ <unk> opening weekend?",
+            "Is the news summary about a television series?"
+        ],
+        "true_summary": "toy story # lives up to its buzz with $ ##m",
+        "human_score": 7,
+        "candidate_inter": "`` toy story # to $ weekend",
+        "context_Answer": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pic_ans": [
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    {
+        "order": 268,
+        "content": "two freight trains collided south of vienna on tuesday , killing seven people and injuring more than a dozen , some critically , railway officials said .",
+        "question": [
+            "Did the trains collide north of Vienna?",
+            "Did the collision result in injuries?",
+            "Were the trains passenger trains?",
+            "Did the accident happen on a Tuesday?",
+            "Did three people die in the crash?",
+            "Did the accident take place in Rome?",
+            "Were railway officials present at the accident site?",
+            "Were a dozen people critically injured?",
+            "Did the accident occur south of Vienna?",
+            "Was anyone killed in the accident?"
+        ],
+        "true_summary": "two <unk> leaves seven dead more than a dozen injured",
+        "human_score": 3,
+        "candidate_inter": "two freight trains south vienna seven",
+        "context_Answer": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+        ],
+        "true_summary_ans": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    {
+        "order": 283,
+        "content": "pope john paul ii on sunday will beatify a record ### people , roman catholics who died in #### in spain 's bitter civil war .",
+        "question": [
+            "Will Pope John Paul II beatify a record number of people on Sunday?",
+            "Did the Roman Catholics who will be beatified die in Spain's civil war?",
+            "Did the Roman Catholics die in 1996?",
+            "Did the beatification take place in France?",
+            "Did Pope Francis II carry out the beatification?",
+            "Was the exact number of people being beatified mentioned?"
+        ],
+        "true_summary": "pope to beatify ### spanish martyrs",
+        "human_score": 7,
+        "candidate_inter": "pope beatify record ### people roman catholics in in",
+        "context_Answer": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "order": 135,
+        "content": "south korea 's benchmark index fell sharply monday , dropping more than # percent following friday 's decline on wall street .",
+        "question": [
+            "Did South Korea's benchmark index rise on Monday?",
+            "Was there a sharp decline in South Korea's benchmark index on Monday?",
+            "Did the decline occur following a decline on Wall Street?",
+            "Did Wall Street decline on Monday?",
+            "Did the decline of South Korea's benchmark index exceed # percent?",
+            "Did the decline in the index happen on Friday?",
+            "Was the decline in Wall Street's performance on Saturday?",
+            "Did the decline occur in North Korea's benchmark index?",
+            "Was the decline less than # percent?",
+            "Did Wall Street decline on Friday?"
+        ],
+        "true_summary": "south korea s main index falls #.# percent following wall street drop last week",
+        "human_score": 7,
+        "candidate_inter": "south korea index sharply more than # percent wall street",
+        "context_Answer": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 330,
+        "content": "russian farmers are expected to harvest a bountiful ## million tons -lrb- ## million metric tons -rrb- of grain this year , up ## million tons -lrb- ## metric tons -rrb- from last year , the agriculture minister said wednesday .",
+        "question": [
+            "Are Russian farmers expected to have a bountiful harvest this year?",
+            "Did a politician make a statement regarding the expected grain harvest in Russia?",
+            "Did the agriculture minister comment on the expected harvest?",
+            "Is the anticipated harvest smaller than the previous year's?",
+            "Was the announcement made on a Thursday?",
+            "Are the Russian farmers expected to harvest vegetables this year?",
+            "Did the Finance Minister make the announcement?",
+            "Is the anticipated grain harvest in tons?",
+            "Did the announcement take place on Wednesday?",
+            "Is the harvest expected to be in pounds?"
+        ],
+        "true_summary": "russian grain harvest expected to reach ## million tons",
+        "human_score": 8,
+        "candidate_inter": "russian farmers expected to harvest bountiful ## grain this year up ## million ## year",
+        "context_Answer": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "order": 21,
+        "content": "at least ## indian soldiers were killed and ## others injured when two powerful bombs exploded inside a train they were traveling in saturday , news reports said .",
+        "question": [
+            "Were any Indian soldiers killed in a train bombing?",
+            "Did the incident occur on a Sunday?",
+            "Were there two bombs involved in the incident?",
+            "Were there any reports of injured soldiers?",
+            "Did the incident take place in a bus?",
+            "Was there only one bomb that exploded?",
+            "Were there any civilian casualties reported?",
+            "Was it reported on Wednesday?",
+            "Did the bombs explode outside the train?"
+        ],
+        "true_summary": "## soldiers killed in bomb explosion on moving train",
+        "human_score": 9,
+        "candidate_inter": "at least ## indian soldiers killed ## bombs train in",
+        "context_Answer": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "order": 247,
+        "content": "qatar beat oman #-# in the gulf cup thursday for its third straight victory in the tournament , while saudi arabia beat the united arab emirates #-# .",
+        "question": [
+            "Did Qatar beat Oman in the Gulf Cup?",
+            "Is this Qatar's third straight victory in the tournament?",
+            "Did Saudi Arabia lose to the United Arab Emirates?",
+            "Did the match take place on a Thursday?",
+            "Did Oman beat Qatar in the Gulf Cup?",
+            "Did the United Arab Emirates beat Saudi Arabia?",
+            "Was the match part of the World Cup?",
+            "Is this Qatar's first win in the tournament?",
+            "Did Saudi Arabia beat the United Arab Emirates?",
+            "Was the match played on a Saturday?",
+            "Did the United Arab Emirates beat Qatar?",
+            "Did the United Kingdom participate in this tournament?"
+        ],
+        "true_summary": "qatar makes it three straight at gulf cup with #-# victory over oman",
+        "human_score": 6,
+        "candidate_inter": "qatar oman #-# in gulf cup straight in saudi arabia beatab #-#",
+        "context_Answer": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 497,
+        "content": "a portuguese bishop has said that people with aids should use condoms to prevent the spread of the disease .",
+        "question": [
+            "Is the bishop who gave the advice about AIDS prevention Portuguese?",
+            "Has the bishop suggested that people with AIDS should not use condoms?",
+            "Did the bishop recommend using protection to prevent the spread of diabetes?",
+            "Was the advice given by a Spanish bishop?",
+            "Is the information about a bishop discouraging condom use for AIDS prevention?",
+            "Did the bishop mention the spread of a disease?",
+            "Is the disease the bishop referred to cancer?",
+            "Did the discussion include preventing the spread of AIDS?",
+            "Did the news summary provide information on the bishop's name?",
+            "Does the article mention the specific location in Portugal?"
+        ],
+        "true_summary": "portuguese bishop says condoms sometimes needed",
+        "human_score": 6,
+        "candidate_inter": "uguese bishop with aids use condoms to spread",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "order": 589,
+        "content": "two suicide car bombers struck a crowded area outside a state-run bank sunday in baghdad , killing nearly ## people in the latest attack targeting a high-profile part of the capital .",
+        "question": [
+            "Did the suicide bombers target a crowded area?",
+            "Did the attack take place outside a privately-owned bank?",
+            "Was the attack in Baghdad?",
+            "Did the attack happen on a Sunday?",
+            "Did the attack only injure about ## people, not kill?",
+            "Was this an attack targeting a low-profile part of the capital?",
+            "Was the state-run bank located in a city other than Baghdad?",
+            "Did the attack involve car bombers?",
+            "Did the event occur on a weekday?",
+            "Did the attack take place indoors?"
+        ],
+        "true_summary": "twin car bombs kill ## near bank in baghdad",
+        "human_score": 7,
+        "candidate_inter": "two suicide car bombers outside- bank in baghdad ## in-",
+        "context_Answer": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            1
+        ]
+    },
+    {
+        "order": 237,
+        "content": "tokyo stocks fell early tuesday as trading resumed after a three-day weekend .",
+        "question": [
+            "Did Tokyo stocks rise early Tuesday?",
+            "Did trading resume after a three-day weekend?",
+            "Were stocks traded on Monday?",
+            "Was the trading in Tokyo?",
+            "Were the stocks traded on Tuesday?",
+            "Is any specific company mentioned in the summary?"
+        ],
+        "true_summary": "tokyo stocks fall dollar lower against yen in early trading",
+        "human_score": 4,
+        "candidate_inter": "tokyo stocks early after a three-day weekend",
+        "context_Answer": [
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    {
+        "order": 142,
+        "content": "gold opened at us$ ###.## an ounce on tuesday in hong kong , down us$ ##.## an ounce from monday 's close of us$ ###.## .",
+        "question": [
+            "Did gold open at US$ ###.## an ounce on Tuesday?",
+            "Did gold open in Hong Kong?",
+            "Was gold up from Monday's close?",
+            "Did gold open on a Monday?",
+            "Was the gold value stated in euros?",
+            "Was the opening of gold in New York?",
+            "Did gold decrease in value from Monday's close?",
+            "Did the summary provide information on gold's opening value on Wednesday?",
+            "Is there information about the price change of silver?",
+            "Is the price of gold evaluated per kilogram?"
+        ],
+        "true_summary": "gold opens lower in hong kong at us$ ###.## an ounce",
+        "human_score": 4,
+        "candidate_inter": "gold us$.## an in hong kong us$. an",
+        "context_Answer": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "order": 38,
+        "content": "a local television station says three indonesian militants have been executed for the #### bali nightclub bombings that killed ### people .",
+        "question": [
+            "Is the news from a local television station?",
+            "Were the three militants from Indonesia?",
+            "Did the nightclub bombings occur in Bali?",
+            "Have the three Indonesian militants been executed?",
+            "Were 120 people killed in the nightclub bombings?",
+            "Were the bombers reported to be from Australia?",
+            "Was the bombing reported by an international news platform?",
+            "Did the television station report the bombing incident to have happened in Jakarta?"
+        ],
+        "true_summary": "bali bombers reportedly executed on prison island",
+        "human_score": 9,
+        "candidate_inter": "indonesian militants executed for #### bali nightclub bombings",
+        "context_Answer": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "order": 306,
+        "content": "two german air force pilots suffered burns when their jet fighter skidded off a runway and exploded .",
+        "question": [
+            "Did two german air force pilots suffer burns?",
+            "Did the pilots' jet skid off a mountain?",
+            "Did the jet explode?",
+            "Did the incident involve a submarine?",
+            "Was the jet in the air when it exploded?",
+            "Were the pilots flying for the Italian air force?",
+            "Did the jet skid off a runway?",
+            "Did the pilots suffer from frostbites?",
+            "Did the pilots escape without any injuries?",
+            "Is the news about a missile launch?"
+        ],
+        "true_summary": "german pilots burned after jet explodes",
+        "human_score": 7,
+        "candidate_inter": "two german air force pilots burns jet fighter off runway",
+        "context_Answer": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 564,
+        "content": "nevada republicans have chosen ultra-conservative tea party favorite sharron angle to take on senate majority leader harry reid in november .",
+        "question": [
+            "Did Nevada Republicans choose Sharron Angle to compete against Senate Majority Leader Harry Reid?",
+            "Is Sharron Angle a member of the ultra-conservative tea party?",
+            "Will Sharron Angle and Harry Reid compete in November?",
+            "Was Sharron Angle elected as the Senate Majority Leader?",
+            "Did the Democrats select Sharron Angle to take on Harry Reid?",
+            "Did the competition between Sharron Angle and Harry Reid take place in January?",
+            "Is Sharron Angle a favorite of the ultra-liberal party?",
+            "Was Harry Reid chosen to compete against Sharron Angle?",
+            "Is Harry Reid a member of the Republican party?",
+            "Will the election take place in Nevada?"
+        ],
+        "true_summary": "republicans pick tea party favorite in reid battle",
+        "human_score": 9,
+        "candidate_inter": "nevada republicans- tea sharron angle to reid",
+        "context_Answer": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "order": 433,
+        "content": "nasa has successfully commanded the mars odyssey spacecraft to reboot its computer .",
+        "question": [
+            "Did NASA successfully command the Mars Odyssey spacecraft to reboot its computer?",
+            "Did Mars command the Odyssey spacecraft to restart its computer?",
+            "Did NASA successfully command the Mars Odyssey spacecraft to shut down its computer?",
+            "Were there any details about why the computer reboot was necessary?"
+        ],
+        "true_summary": "nasa successfully reboots mars orbiter s computer",
+        "human_score": 9,
+        "candidate_inter": "nasa mars odyssey spacecraft to reboot computer",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "order": 515,
+        "content": "two nights of devastating bombing by nato forces , unsurprisingly , have not forced yugoslav president slobodan milosevic to back down in kosovo .",
+        "question": [
+            "Did the bombing by NATO forces happen for two nights?",
+            "Was the bombing by the Swedish forces?",
+            "Did the bombing force Yugoslav president Slobodan Milosevic to back down in Kosovo?",
+            "Was the bombing targeted at China?",
+            "Is Slobodan Milosevic the president of Yugoslavia?",
+            "Is Slobodan Milosevic the president of Kosovo?",
+            "Did the bombing happen in Kosovo?",
+            "Was the bombing operated by NATO?",
+            "Was the devastation caused by a natural disaster?",
+            "Did the bombings successfully force a surrender?"
+        ],
+        "true_summary": "no sign of any yugoslav backdown as nato readies phase ii of",
+        "human_score": 2,
+        "candidate_inter": "of natoug president milosevic to in kosovo",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 296,
+        "content": "beginning this summer , u.s. olympic athletes will have to adhere to a stricter code of behavior or risk being kicked off the team .",
+        "question": [
+            "Will U.S. Olympic athletes have to follow a stricter code of behavior starting this summer?",
+            "Can U.S. Olympic athletes be expelled from the team for not following the new behavior code?",
+            "Will new rules be implemented beginning this winter?",
+            "Are the stricter code of conduct rules only applied to US Olympians?",
+            "Will the stricter code of behavior apply to U.S. Paralympic athletes?",
+            "Will U.S. Olympic athletes have to adhere to a more relaxed code of behavior?",
+            "Has the code of behavior for US Olympic athletes remained the same?"
+        ],
+        "true_summary": "u.s. olympic athletes adhere to stricter code of behavior",
+        "human_score": 9,
+        "candidate_inter": "u.s. olympic athletes to to stricter code of behavior",
+        "context_Answer": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    {
+        "order": 10,
+        "content": "federal investigators began probing a plane crash near the grand canyon as relatives of some of the eight victims held a buddhist ceremony amid the wreckage .",
+        "question": [
+            "Did federal investigators begin probing a plane crash near the grand canyon?",
+            "Was the plane crash near the Eiffel Tower?",
+            "Did relatives of some of the eight victims hold a Christian ceremony?",
+            "Was there a Buddhist ceremony held amid the wreckage?",
+            "Did the plane crash claim ten victims?",
+            "Were all eight victims related?",
+            "Has the investigation into the crash been completed?"
+        ],
+        "true_summary": "crash investigation begins relatives mourn eight victims",
+        "human_score": 7,
+        "candidate_inter": "f plane crash near grand canyon as relatives victims buddhist",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 46,
+        "content": "israel says palestinian militants have fired a new barrage of rockets and mortars from gaza .",
+        "question": [
+            "Did Israel claim that Palestinian militants have launched new attacks?",
+            "Were the rockets and mortars fired from Syria?",
+            "Did Palestinian militants fire the rockets from Gaza?",
+            "Was the barrage of rockets and mortars launched by Israeli militants?",
+            "Did the news mention the exact number of rockets and mortars fired?",
+            "Is it specified who these Palestinian militants are?",
+            "Did Israel retaliate immediately after the alleged attack?"
+        ],
+        "true_summary": "new barrage of rockets further tests shaky truce",
+        "human_score": 7,
+        "candidate_inter": "israelestinian militants new barrage rocketsars from gaza",
+        "human_eva": [
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "context_Answ,er": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 439,
+        "content": "england 's chances of beating france in the six nations on sunday appear to be all about whether the team can keep all ## players on the field .",
+        "question": [
+            "Is England playing against France?",
+            "Is the match part of the Six Nations?",
+            "Is England's win dependent on keeping all players on the field?",
+            "Is England playing against Italy?",
+            "Will the match be held on Monday?",
+            "Is the match a part of the World Cup?",
+            "Did the summary provide the specific location of the match?",
+            "Is there information about the France team's strategy?"
+        ],
+        "true_summary": "england seeking to cut out cards against france",
+        "human_score": 4,
+        "human_eva": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "candidate_inter": "england chances of france in six nations ##",
+        "context_Answer": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 424,
+        "content": "police fired on imprisoned kashmiri rebels sunday , killing one , after prisoners resisted a search of their cells .",
+        "question": [
+            "Did police fire on imprisoned Kashmiri rebels?",
+            "Was the incident reported to occur on a Monday?",
+            "Were the prisoners resisting a search of their cells?",
+            "Did the police fire result in any fatalities?",
+            "Did the incident take place in Mumbai?",
+            "Was more than one prisoner killed in the incident?",
+            "Did the incident occur on a Sunday?",
+            "Were the prisoners from Delhi?",
+            "Was it a peaceful search of cell?",
+            "Were all prisoners unharmed?"
+        ],
+        "true_summary": "police fire on kashmiri prisoners killing one",
+        "human_score": 2,
+        "human_eva": [
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+        ],
+        "candidate_inter": "police on imprisoned kashmiri rebels one prisoners",
+        "context_Answer": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 395,
+        "content": "ronaldo suffered a slight left ankle injury in training and may not make his long-awaited debut for real madrid on wednesday after all .",
+        "question": [
+            "Did Ronaldo get injured?",
+            "Was the injury on his right ankle?",
+            "Is Ronaldo expected to debut for Manchester United?",
+            "Was Ronaldo training when he injured his ankle?",
+            "Is there a chance that Ronaldo might not play on Wednesday?",
+            "Did Ronaldo break his ankle?",
+            "Is the injury on his left ankle?",
+            "Did Ronaldo suffer a severe injury?",
+            "Was Ronaldo preparing for his debut for Barcelona?",
+            "Is the news about Federer's injury?"
+        ],
+        "true_summary": "ankle injury may delay ronaldo debut for real madrid",
+        "human_score": 8,
+        "human_eva": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "candidate_inter": "ronaldo ankle injury in not make- debut for real madrid",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    
+    {
+        "order": 192,
+        "content": "the black bears of shenandoah national park are a magnificent sight , from a distance .",
+        "question": [
+            "Are the black bears of Shenandoah National Park a magnificent sight?",
+            "Can you see the black bears of Shenandoah National Park from a close proximity?",
+            "Is the sighting of black bears in Yosemite National Park common?",
+            "Are the black bears in Shenandoah National Park considered unattractive?"
+        ],
+        "true_summary": "how to enjoy bears without becoming their prey",
+        "human_score": 10,
+        "candidate_inter": "black bears sheandoah",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    {
+        "order": 69,
+        "content": "president-elect barack obama and his wife , michelle , said their young daughters will still have to do chores in the white house and wo n't get out of doing homework just because they 're the president 's children .",
+        "question": [
+            "Is Barack Obama the president-elect?",
+            "Did Barack Obama and his wife say their daughters will not have to do chores in the White House?",
+            "Will the Obama's daughters get out of doing homework because they are the president's children?",
+            "Is Michelle Obama's husband the current president?",
+            "Is it stated that the Obama's daughters will continue their education while living in the White House?",
+            "Is Barack Obama married to Michelle Obama?",
+            "Does the news mention any names of Obama's daughters?",
+            "Is the current residence of Obama's family stated to be the white house?"
+        ],
+        "true_summary": "obama girls will do chores in white house",
+        "human_score": 5,
+        "candidate_inter": "obama young daughters to in",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "order": 254,
+        "content": "the u.s. coast guard returned ## cuban migrants to the communist country thursday .",
+        "question": [
+            "Did the U.S. Coast Guard return Cuban migrants to their country?",
+            "Did the U.S. Coast Guard return the migrants on a Friday?",
+            "Were the migrants returned to a communist country?",
+            "Did the U.S. Coast Guard return the migrants to Mexico?",
+            "Were the migrants returned on a Thursday?",
+            "Were the migrants from Canada?",
+            "Is the exact number of migrants mentioned in the summary?"
+        ],
+        "true_summary": "coast guards returns ## cuban migrants",
+        "human_score": 4,
+        "candidate_inter": ".s. coast guard ## cuban migrants to",
+        "context_Answer": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "order": 479,
+        "content": "the nba is sending luol deng back home for a preseason game in the british capital .",
+        "question": [
+            "Is the NBA sending Luol Deng back home for a preseason game?",
+            "Was Luol Deng sent to the British capital for a regular season game?",
+            "Is Luol Deng returning to Japan for the NBA preseason game?",
+            "Does the news summary mention where Luol Deng's home is?"
+        ],
+        "true_summary": "bulls to face jazz in nba preseason game in london",
+        "human_score": 7,
+        "candidate_inter": "baol deng back home for preseason game in",
+        "context_Answer": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "true_summary_ans": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "candidate_inter_ans": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "pic_ans": [
+            0,
+            1,
+            0,
+            0
+        ]
+    }
+]

@@ -1,0 +1,1302 @@
+[
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 46,
+        "summary": "israelestinian militants new barrage rocketsars from gaza",
+        "content": "israel says palestinian militants have fired a new barrage of rockets and mortars from gaza .",
+        "human_score": 5,
+        "questions": [
+            "Are Israeli and Palestinian militants involved in firing a new barrage of rockets from Gaza?",
+            "Are the rockets being fired from Gaza?",
+            "Is the new barrage of rockets coming from Palestinian militants?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "Yes",
+            "No, they are being fired from the West Bank",
+            "No, it's coming from the Israeli military"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "0"
+        ],
+        "order": 439,
+        "summary": "england chances of france in six nations ##",
+        "content": "england 's chances of beating france in the six nations on sunday appear to be all about whether the team can keep all ## players on the field .",
+        "human_score": 4,
+        "questions": [
+            "Is England a participant in the Six Nations tournament?",
+            "Is France a participant in the Six Nations tournament?",
+            "Are England's chances of winning higher than France's in the Six Nations?"
+        ],
+        "pic_ans": [
+            0,
+            0,
+            1
+        ],
+        "pic_ans_context": [
+            "No",
+            "No",
+            "Yes"
+        ]
+    },
+    {
+        "text_ans": [
+            "0",
+            "1",
+            "1"
+        ],
+        "order": 424,
+        "summary": "police on imprisoned kashmiri rebels one prisoners",
+        "content": "police fired on imprisoned kashmiri rebels sunday , killing one , after prisoners resisted a search of their cells .",
+        "human_score": 2,
+        "questions": [
+            "Are the police imprisoned?",
+            "Are the kashmiri rebels imprisoned?",
+            "Are the prisoners imprisoned?"
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "No, they are not imprisoned.",
+            "No, they are not",
+            "No, they are not imprisoned."
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "0",
+            "1"
+        ],
+        "order": 395,
+        "summary": "ronaldo ankle injury in not make- debut for real madrid",
+        "content": "ronaldo suffered a slight left ankle injury in training and may not make his long-awaited debut for real madrid on wednesday after all .",
+        "human_score": 4,
+        "questions": [
+            "Did Ronaldo have an ankle injury?",
+            "Did Ronaldo make his debut for Real Madrid?",
+            "Did Ronaldo not make his debut because of his ankle injury?"
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "No",
+            "No",
+            "No, he was rested"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 420,
+        "summary": "israel home of palestinian attacker in suicide bus bombing in aviv",
+        "content": "israel on monday demolished the home of the palestinian attacker who died in a suicide bus bombing in tel aviv last month .",
+        "human_score": 4,
+        "questions": [
+            "Is Israel the home of the Palestinian attacker in the suicide bus bombing in Aviv?",
+            "Did the suicide bus bombing in Aviv involve a Palestinian attacker?",
+            "Was the attacker in the suicide bus bombing in Aviv a homegrown Palestinian?"
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "No",
+            "No",
+            "No"
+        ]
+    },
+    {
+        "text_ans": [
+            "0",
+            "1",
+            "1"
+        ],
+        "order": 299,
+        "summary": "between indian police in northernkashmir killed at least ## rebels police",
+        "content": "fighting between indian police and separatist guerrillas sunday in the northern state of jammu-kashmir killed at least ## rebels , police said .",
+        "human_score": 4,
+        "questions": [
+            "Did the Indian police kill rebels in northern Kashmir?",
+            "Are the Indian police and the rebels in northern Kashmir involved in a conflict?",
+            "Is there a relationship between the Indian police and the rebels in northern Kashmir?"
+        ],
+        "pic_ans": [
+            0,
+            0,
+            1
+        ],
+        "pic_ans_context": [
+            "No",
+            "No",
+            "Yes, there is a relationship between the Indian police and the rebels in northern Kashmir"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "0",
+            "1"
+        ],
+        "order": 495,
+        "summary": "organ-abortion groups in spain to protest to reform",
+        "content": "organizers say anti-abortion groups are marching in cities across spain to protest government plans to reform the law .",
+        "human_score": 4,
+        "questions": [
+            "Are there organ-abortion groups in Spain?",
+            "Are these organ-abortion groups planning to protest?",
+            "Are the organ-abortion groups protesting to reform?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "Yes, and they are very active",
+            "Yes, they are",
+            "No, they're protesting to kill"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 519,
+        "summary": "the russian parliamentary election both free and fair observers democracy in- russia",
+        "content": "the russian parliamentary election was both free and fair , foreign observers said monday , expressing optimism about the future of democracy in post-soviet russia .",
+        "human_score": 4,
+        "questions": [
+            "Was the Russian parliamentary election free and fair?",
+            "Did the observers witness democracy in Russia?",
+            "Did the observers witness the Russian parliamentary election?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "Yes, but not as free as it should have been",
+            "No, they saw a circus",
+            "No, they did not"
+        ]
+    },
+    {
+        "text_ans": [
+            "0",
+            "1",
+            "0"
+        ],
+        "order": 231,
+        "summary": "jon lee drummer for welsh rock back feeder himself in home",
+        "content": "jon lee , the drummer for the welsh rock back feeder , killed himself in his home , officials said .",
+        "human_score": 1,
+        "questions": [
+            "Is Jon Lee a member of the Welsh rock band Feeder?",
+            "Is Jon Lee a drummer?",
+            "Is Jon Lee currently home?"
+        ],
+        "pic_ans": [
+            0,
+            1,
+            0
+        ],
+        "pic_ans_context": [
+            "No, he's a member of the band Feeder",
+            "Yes, he is a drummer",
+            "Yes, he is home"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "0",
+            "1"
+        ],
+        "order": 562,
+        "summary": "car bomb in shopping in western baghdad",
+        "content": "iraqi officials say a car bomb has exploded in a shopping area in western baghdad , killing three people .",
+        "human_score": 3,
+        "questions": [
+            "Is there a car bomb in shopping in western Baghdad?",
+            "Is the car bomb in a bag?",
+            "Is the car bomb in western Baghdad?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "Yes, there is a car bomb in western Baghdad",
+            "Yes.",
+            "No, it's in eastern Baghdad"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 174,
+        "summary": "philippines ferry #### in southern philippines at least five ## missing",
+        "content": "manila , philippines -- a ferry carrying nearly #,### passengers sank in the southern philippines early sunday , leaving at least five dead and more than ## missing .",
+        "human_score": 4,
+        "questions": [
+            "Is the Philippines ferry located in the southern Philippines?",
+            "Are there at least five missing people in the Philippines ferry incident?",
+            "Is the incident involving the Philippines ferry?"
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1
+        ],
+        "pic_ans_context": [
+            "Yes",
+            "Yes, there are at least five missing people in the Philippines ferry incident",
+            "Yes, it is a ferry"
+        ]
+    },
+    {
+        "text_ans": [
+            "0",
+            "1",
+            "1"
+        ],
+        "order": 337,
+        "summary": "a military helicopter fire air base in southeastern turkey ## soldiers",
+        "content": "a military helicopter crashed and caught fire wednesday while landing at an air base in southeastern turkey , injuring ## soldiers .",
+        "human_score": 3,
+        "questions": [
+            "Is the military helicopter stationed at a fire air base?",
+            "Is the fire air base located in southeastern Turkey?",
+            "Are there soldiers present at the fire air base?"
+        ],
+        "pic_ans": [
+            0,
+            1,
+            0
+        ],
+        "pic_ans_context": [
+            "No, it's a fire air base",
+            "Yes",
+            "No, there are no soldiers present at the fire air base"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 546,
+        "summary": "in space crew space station",
+        "content": "after a month and a half in space , the crew of the international space station on monday anticipated shaking hands with their first visitors .",
+        "human_score": 2,
+        "questions": [
+            "Is there a crew in the space station?",
+            "Is there a space station?",
+            "Is the crew in space?"
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1
+        ],
+        "pic_ans_context": [
+            "Yes, there is a crew in the space station",
+            "Yes, there is a space station",
+            "Yes, they are in space"
+        ]
+    },
+    {
+        "text_ans": [
+            "0",
+            "1",
+            "1"
+        ],
+        "order": 134,
+        "summary": "atletico madrid hopes spanish league #-# draw at almeria",
+        "content": "atletico madrid 's hopes of rising closer to the top of the spanish league were hit by a #-# draw at almeria on sunday .",
+        "human_score": 4,
+        "questions": [
+            "Does Atletico Madrid hope for a draw in the Spanish league match against Almeria?",
+            "Is Atletico Madrid a team participating in the Spanish league?",
+            "Is Almeria a team participating in the Spanish league?"
+        ],
+        "pic_ans": [
+            0,
+            1,
+            1
+        ],
+        "pic_ans_context": [
+            "No",
+            "Yes",
+            "Yes, the Almeria team is participating in the Spanish league"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 473,
+        "summary": "lebanese fatah official killed in explosion in southern lebanon",
+        "content": "a lebanese security official says a senior fatah official has been killed in an explosion in southern lebanon .",
+        "human_score": 4,
+        "questions": [
+            "Was the Lebanese Fatah official killed?",
+            "Did the explosion occur in southern Lebanon?",
+            "Is the Lebanese Fatah official from Lebanon?"
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1
+        ],
+        "pic_ans_context": [
+            "Yes",
+            "Yes",
+            "Yes, he is"
+        ]
+    },
+    {
+        "text_ans": [
+            "0",
+            "0",
+            "1"
+        ],
+        "order": 465,
+        "summary": "new zealand ### for five at lunch on fourth day of first test india with- in",
+        "content": "new zealand was ### for five at lunch on the fourth day of the first cricket test on saturday , trailing india by ## runs with five second-innings wickets in hand .",
+        "human_score": 2,
+        "questions": [
+            "Is New Zealand hosting a test match with India?",
+            "Is it the first test match between New Zealand and India?",
+            "Is the match taking place on the fourth day?"
+        ],
+        "pic_ans": [
+            0,
+            0,
+            1
+        ],
+        "pic_ans_context": [
+            "No",
+            "Yes",
+            "Yes"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 285,
+        "summary": "five teen-agers killed car- truck",
+        "content": "five teen-agers were killed when their speeding car slammed into the cab of an ##-wheel truck , police said .",
+        "human_score": 2,
+        "questions": [
+            "Were there five teen-agers involved in the accident?",
+            "Was the car involved in the accident?",
+            "Was the truck involved in the accident?"
+        ],
+        "pic_ans": [
+            0,
+            1,
+            1
+        ],
+        "pic_ans_context": [
+            "No, there were only four",
+            "Yes",
+            "Yes"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "0",
+            "0"
+        ],
+        "order": 446,
+        "summary": "malaysia parliament to suspend opposition lawmaker for one year after malaysia of a murderer",
+        "content": "malaysia 's parliament has voted to suspend a prominent opposition lawmaker for one year after he accused malaysia 's next prime minister of being a murderer .",
+        "human_score": 4,
+        "questions": [
+            "Is the Malaysia parliament suspending an opposition lawmaker for one year?",
+            "Was Malaysia involved in the conviction of a murderer?",
+            "Is the suspension of the opposition lawmaker happening after the conviction of the murderer?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "Yes",
+            "No",
+            "No, it's happening before the conviction"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "0",
+            "1"
+        ],
+        "order": 584,
+        "summary": "`` toy story # to $ weekend",
+        "content": "`` toy story # '' has become the favorite plaything for moviegoers as the animated sequel heads to a $ <unk> opening weekend .",
+        "human_score": 4,
+        "questions": [
+            "Is 'Toy Story' a movie?",
+            "Is '#' a symbol?",
+            "Does the sentence mention a weekend?"
+        ],
+        "pic_ans": [
+            1,
+            1,
+            0
+        ],
+        "pic_ans_context": [
+            "Yes",
+            "Yes, it's a symbol",
+            "No"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 268,
+        "summary": "two freight trains south vienna seven",
+        "content": "two freight trains collided south of vienna on tuesday , killing seven people and injuring more than a dozen , some critically , railway officials said .",
+        "human_score": 5,
+        "questions": [
+            "Are there two freight trains mentioned in the sentence?",
+            "Do the trains go south?",
+            "Is Vienna mentioned in the sentence?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            1
+        ],
+        "pic_ans_context": [
+            "Yes, there are two freight trains mentioned in the sentence.",
+            "No, they go north.",
+            "Yes.  Question: Is Vienna mentioned in the sentence?  Answer: Yes.  Question"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "0",
+            "0"
+        ],
+        "order": 283,
+        "summary": "pope beatify record ### people roman catholics in in",
+        "content": "pope john paul ii on sunday will beatify a record ### people , roman catholics who died in #### in spain 's bitter civil war .",
+        "human_score": 2,
+        "questions": [
+            "Did the pope beatify a record number of people?",
+            "Did the record number of people who were beatified belong to the Roman Catholics?",
+            "Did the beatification of the record number of people take place in Rome?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "Yes, he did - stock photo",
+            "No, they belonged to the Eastern Orthodox Church",
+            "Yes, it did."
+        ]
+    },
+    {
+        "text_ans": [
+            "0",
+            "0",
+            "0"
+        ],
+        "order": 135,
+        "summary": "south korea index sharply more than # percent wall street",
+        "content": "south korea 's benchmark index fell sharply monday , dropping more than # percent following friday 's decline on wall street .",
+        "human_score": 1,
+        "questions": [
+            "Did South Korea's index increase more than # percent?",
+            "Did South Korea's index increase sharply?",
+            "Did Wall Street's index increase?"
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "No.",
+            "No",
+            "No"
+        ]
+    },
+    {
+        "text_ans": [
+            "0",
+            "1",
+            "1"
+        ],
+        "order": 330,
+        "summary": "russian farmers expected to harvest bountiful ## grain this year up ## million ## year",
+        "content": "russian farmers are expected to harvest a bountiful ## million tons -lrb- ## million metric tons -rrb- of grain this year , up ## million tons -lrb- ## metric tons -rrb- from last year , the agriculture minister said wednesday .",
+        "human_score": 4,
+        "questions": [
+            "Are the entities in the sentence Russian farmers and grain?",
+            "Is the relationship between Russian farmers and grain that the farmers are expected to harvest it?",
+            "Is the expected harvest of grain this year up to millions of tons?"
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1
+        ],
+        "pic_ans_context": [
+            "Yes.",
+            "Yes, the relationship is very good",
+            "Yes, it is expected to be up to millions of tons"
+        ]
+    },
+    {
+        "text_ans": [
+            "0",
+            "1",
+            "0"
+        ],
+        "order": 21,
+        "summary": "at least ## indian soldiers killed ## bombs train in",
+        "content": "at least ## indian soldiers were killed and ## others injured when two powerful bombs exploded inside a train they were traveling in saturday , news reports said .",
+        "human_score": 2,
+        "questions": [
+            "Did at least ## Indian soldiers kill the bombs on the train?",
+            "Were the Indian soldiers killed by the bombs on the train?",
+            "Did the bombs on the train kill at least ## Indian soldiers?"
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "No.",
+            "No.",
+            "No."
+        ]
+    },
+    {
+        "text_ans": [
+            "0",
+            "0",
+            "0"
+        ],
+        "order": 247,
+        "summary": "qatar oman #-# in gulf cup straight in saudi arabia beatab #-#",
+        "content": "qatar beat oman #-# in the gulf cup thursday for its third straight victory in the tournament , while saudi arabia beat the united arab emirates #-# .",
+        "human_score": 2,
+        "questions": [
+            "Is Qatar in the Gulf Cup in Saudi Arabia?",
+            "Did Oman beat a team in the Gulf Cup?",
+            "Is Saudi Arabia hosting the Gulf Cup?"
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "No",
+            "No",
+            "No"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "0",
+            "0"
+        ],
+        "order": 497,
+        "summary": "uguese bishop with aids use condoms to spread",
+        "content": "a portuguese bishop has said that people with aids should use condoms to prevent the spread of the disease .",
+        "human_score": 2,
+        "questions": [
+            "Is the Portuguese bishop a person?",
+            "Does the Portuguese bishop have aids?",
+            "Are condoms used by the Portuguese bishop to spread?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "Yes, he is a person",
+            "Yes, he does",
+            "No, the condom is used to prevent the spread of AIDS"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "0",
+            "1"
+        ],
+        "order": 589,
+        "summary": "two suicide car bombers outside- bank in baghdad ## in-",
+        "content": "two suicide car bombers struck a crowded area outside a state-run bank sunday in baghdad , killing nearly ## people in the latest attack targeting a high-profile part of the capital .",
+        "human_score": 4,
+        "questions": [
+            "Were there two suicide car bombers outside a bank in Baghdad?",
+            "Did the suicide car bombers detonate the explosives in the bank?",
+            "Was the bank located in Baghdad?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            1
+        ],
+        "pic_ans_context": [
+            "Yes",
+            "No.",
+            "Yes."
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 237,
+        "summary": "tokyo stocks early after weekend",
+        "content": "tokyo stocks fell early tuesday as trading resumed after a three-day weekend .",
+        "human_score": 5,
+        "questions": [
+            "Are Tokyo stocks being traded early after the weekend?",
+            "Are there entities involved in Tokyo stocks?",
+            "Is there a relationship between Tokyo stocks and the weekend?"
+        ],
+        "pic_ans": [
+            1,
+            1,
+            0
+        ],
+        "pic_ans_context": [
+            "Yes, but not by the Japanese.",
+            "Yes, but they are not the ones you think",
+            "No, but there is a relationship between Tokyo stocks and the weekend."
+        ]
+    },
+    {
+        "text_ans": [
+            "0",
+            "1",
+            "0"
+        ],
+        "order": 142,
+        "summary": "gold us$.## an in hong kong us$. an",
+        "content": "gold opened at us$ ###.## an ounce on tuesday in hong kong , down us$ ##.## an ounce from monday 's close of us$ ###.## .",
+        "human_score": 2,
+        "questions": [
+            "Is gold worth in US dollars?",
+            "Is the location of the gold in Hong Kong?",
+            "Is the currency used in Hong Kong US dollars?"
+        ],
+        "pic_ans": [
+            0,
+            1,
+            1
+        ],
+        "pic_ans_context": [
+            "No.",
+            "Yes.",
+            "No.  Question: Is the currency used in Hong Kong US dollars?  Answer: Yes"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 38,
+        "summary": "indonesian militants executed for #### bali nightclub bombings",
+        "content": "a local television station says three indonesian militants have been executed for the #### bali nightclub bombings that killed ### people .",
+        "human_score": 5,
+        "questions": [
+            "Were Indonesian militants involved in the Bali nightclub bombings?",
+            "Were the Indonesian militants executed for their role in the bombings?",
+            "Did the Bali nightclub bombings take place in ####?"
+        ],
+        "pic_ans": [
+            0,
+            0,
+            1
+        ],
+        "pic_ans_context": [
+            "No",
+            "No",
+            "Yes."
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "0",
+            "1"
+        ],
+        "order": 306,
+        "summary": "two german air force pilots burns jet fighter off runway",
+        "content": "two german air force pilots suffered burns when their jet fighter skidded off a runway and exploded .",
+        "human_score": 3,
+        "questions": [
+            "Are the pilots German?",
+            "Did the pilots burn the jet fighter?",
+            "Did the jet fighter go off the runway?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            1
+        ],
+        "pic_ans_context": [
+            "Yes.",
+            "No, they were just trying to get it to land safely",
+            "Yes, it did."
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "0"
+        ],
+        "order": 564,
+        "summary": "nevada republicans- tea sharron angle to reid",
+        "content": "nevada republicans have chosen ultra-conservative tea party favorite sharron angle to take on senate majority leader harry reid in november .",
+        "human_score": 4,
+        "questions": [
+            "Are Nevada Republicans associated with Tea Party?",
+            "Was Sharron Angle connected to Reid?",
+            "Is Reid a member of Nevada Republicans?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            1
+        ],
+        "pic_ans_context": [
+            "Yes",
+            "No",
+            "Yes"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "0"
+        ],
+        "order": 433,
+        "summary": "nasa mars odyssey spacecraft to reboot computer",
+        "content": "nasa has successfully commanded the mars odyssey spacecraft to reboot its computer .",
+        "human_score": 4,
+        "questions": [
+            "Is NASA sending the Mars Odyssey spacecraft to reboot its computer?",
+            "Is the Mars Odyssey spacecraft going to reboot its computer?",
+            "Is it true that NASA's purpose of sending the Mars Odyssey spacecraft is to reboot its computer?"
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "No",
+            "No, it's not",
+            "No, it's not true"
+        ]
+    },
+    {
+        "text_ans": [
+            "0",
+            "0",
+            "1"
+        ],
+        "order": 515,
+        "summary": "of natoug president milosevic to in kosovo",
+        "content": "two nights of devastating bombing by nato forces , unsurprisingly , have not forced yugoslav president slobodan milosevic to back down in kosovo .",
+        "human_score": 2,
+        "questions": [
+            "Is the subject of the sentence 'Milosevic'?",
+            "Is the verb of the sentence 'to'?",
+            "Is the location mentioned in the sentence 'Kosovo'?"
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1
+        ],
+        "pic_ans_context": [
+            "Yes",
+            "Yes",
+            "Yes"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 296,
+        "summary": "u.s. olympic athletes to to stricter code of behavior",
+        "content": "beginning this summer , u.s. olympic athletes will have to adhere to a stricter code of behavior or risk being kicked off the team .",
+        "human_score": 4,
+        "questions": [
+            "Are U.S. Olympic athletes required to adhere to a stricter code of behavior?",
+            "Is there a relationship between U.S. Olympic athletes and a code of behavior?",
+            "Do U.S. Olympic athletes have to follow certain guidelines?"
+        ],
+        "pic_ans": [
+            1,
+            1,
+            0
+        ],
+        "pic_ans_context": [
+            "Yes",
+            "Yes",
+            "No"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "0",
+            "0"
+        ],
+        "order": 10,
+        "summary": "f plane crash near grand canyon as relatives victims buddhist",
+        "content": "federal investigators began probing a plane crash near the grand canyon as relatives of some of the eight victims held a buddhist ceremony amid the wreckage .",
+        "human_score": 4,
+        "questions": [
+            "Did a plane crash occur near the Grand Canyon?",
+            "Were the victims of the plane crash relatives of each other?",
+            "Were the victims of the plane crash Buddhist?"
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "No",
+            "No",
+            "No"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 267,
+        "summary": "## u.s. servicemen aboard helicopter believed to be dead",
+        "content": "all ## u.s. servicemen aboard a military helicopter that crashed two days ago are believed to be dead , an american general said sunday .",
+        "human_score": 5,
+        "questions": [
+            "Are the u.s. servicemen aboard the helicopter?",
+            "Are the servicemen believed to be dead?",
+            "Is the helicopter carrying the servicemen?"
+        ],
+        "pic_ans": [
+            0,
+            0,
+            1
+        ],
+        "pic_ans_context": [
+            "No, they are not.",
+            "No, they are alive and well",
+            "Yes, it is carrying the servicemen"
+        ]
+    },
+    {
+        "text_ans": [
+            "0",
+            "1",
+            "0"
+        ],
+        "order": 108,
+        "summary": "tiger woods at riviera after rounds with flu",
+        "content": "tiger woods had a short stay at riviera , withdrawing after two rounds with the flu .",
+        "human_score": 2,
+        "questions": [
+            "Does Tiger Woods play at Riviera?",
+            "Did Tiger Woods have rounds with flu?",
+            "Is Riviera the location where Tiger Woods played after rounds with flu?"
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "No",
+            "No",
+            "No"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "0",
+            "1"
+        ],
+        "order": 295,
+        "summary": "baez indians future with in bullpen",
+        "content": "danys baez has been told by the cleveland indians that his future with the organization is in the bullpen .",
+        "human_score": 3,
+        "questions": [
+            "Are the Baez Indians in the bullpen?",
+            "Is Baez part of the Indians' future?",
+            "Are the Indians in the bullpen's future?"
+        ],
+        "pic_ans": [
+            0,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "No, but they are in the rotation",
+            "No",
+            "No"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 577,
+        "summary": "germany in half against ##-man australia to lead #-# after ## minutes world cup",
+        "content": "germany scored two goals in each half against ##-man australia to lead #-# after ## minutes of their world cup match sunday .",
+        "human_score": 4,
+        "questions": [
+            "Did Germany score against Australia in the World Cup match?",
+            "Did Germany take the lead against Australia in the World Cup match?",
+            "Did Germany take the lead within the first ## minutes of the match?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "Yes",
+            "No",
+            "No"
+        ]
+    },
+    {
+        "text_ans": [
+            "0",
+            "0",
+            "1"
+        ],
+        "order": 121,
+        "summary": "j #.# percent #-week low shares on subprime",
+        "content": "japan 's benchmark stock index fell #.# percent to a #-week low monday as banking shares slumped on more worries about u.s. subprime mortgages .",
+        "human_score": 2,
+        "questions": [
+            "Is the percentage in the sentence greater than 50%?",
+            "Is the number of weeks mentioned in the sentence greater than 2?",
+            "Are the shares mentioned in the sentence related to the subprime market?"
+        ],
+        "pic_ans": [
+            1,
+            1,
+            0
+        ],
+        "pic_ans_context": [
+            "Yes.",
+            "Yes.",
+            "No."
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 1,
+        "summary": "u.s. albanian croatian and macedonian soldiers joint military exercise.s.",
+        "content": "u.s. , albanian , croatian and macedonian soldiers began a monthlong joint military exercise tuesday , the u.s. embassy said tuesday .",
+        "human_score": 5,
+        "questions": [
+            "Are U.S. soldiers participating in a joint military exercise with Albanian soldiers?",
+            "Are U.S. soldiers participating in a joint military exercise with Croatian soldiers?",
+            "Are U.S. soldiers participating in a joint military exercise with Macedonian soldiers?"
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1
+        ],
+        "pic_ans_context": [
+            "Yes",
+            "Yes",
+            "Yes"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "0"
+        ],
+        "order": 574,
+        "summary": "kyrgyz mobs uzbek villages as ethnic rioting in southern kyrgyzstan",
+        "content": "kyrgyz mobs burned uzbek villages and slaughtered their residents sunday as ethnic rioting engulfed new areas in southern kyrgyzstan .",
+        "human_score": 4,
+        "questions": [
+            "Did Kyrgyz mobs target Uzbek villages?",
+            "Did the ethnic rioting occur in southern Kyrgyzstan?",
+            "Were there entities involved in the ethnic rioting?"
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1
+        ],
+        "pic_ans_context": [
+            "Yes, they did",
+            "Yes, it did",
+            "Yes, there were."
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 218,
+        "summary": "many filipinos to rebuild lives after flood and storm",
+        "content": "many filipinos tried to rebuild their lives monday after saving little more than the clothes they wore in a tropical storm and the capital 's worst flooding in more than four decades .",
+        "human_score": 5,
+        "questions": [
+            "Did a flood occur in the Philippines?",
+            "Did many Filipinos have to rebuild their lives after the storm?",
+            "Did the storm cause damage to people's lives in the Philippines?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            1
+        ],
+        "pic_ans_context": [
+            "Yes, but it was a false alarm",
+            "Yes, but they did it with their own hands",
+            "Yes."
+        ]
+    },
+    {
+        "text_ans": [
+            "0",
+            "0",
+            "0"
+        ],
+        "order": 318,
+        "summary": "ankees boston ##-game winning streak un in #-#",
+        "content": "the new york yankees ended boston 's ##-game winning streak tuesday night , scoring five unearned runs in the second inning and then pulling away for a #-# victory .",
+        "human_score": 3,
+        "questions": [
+            "Are the Yankees on a winning streak?",
+            "Is the winning streak of the Yankees against Boston?",
+            "Is the score of the last game between the Yankees and Boston # to #?"
+        ],
+        "pic_ans": [
+            0,
+            1,
+            1
+        ],
+        "pic_ans_context": [
+            "No",
+            "Yes",
+            "Yes"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "0",
+            "1"
+        ],
+        "order": 193,
+        "summary": "a of of a a chariot race",
+        "content": "it has a cast of hundreds , dozens of horses , gladiators , a sea battle and a live chariot race .",
+        "human_score": 1,
+        "questions": [
+            "Is the sentence about a chariot race?",
+            "Does the sentence contain multiple instances of 'a'?",
+            "Does the sentence mention the entity 'of'?"
+        ],
+        "pic_ans": [
+            1,
+            1,
+            1
+        ],
+        "pic_ans_context": [
+            "Yes.",
+            "Yes",
+            "Yes.  Question: Does the sentence mention the entity 'of' in the sentence?"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "0",
+            "1"
+        ],
+        "order": 192,
+        "summary": "black bears sheandoah",
+        "content": "the black bears of shenandoah national park are a magnificent sight , from a distance .",
+        "human_score": 5,
+        "questions": [
+            "Do black bears live in Shenandoah?",
+            "Are black bears the only entity mentioned?",
+            "Is Shenandoah a place?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            1
+        ],
+        "pic_ans_context": [
+            "Yes, black bears are native to the Shenandoah Valley",
+            "No, there are also grizzly bears",
+            "Yes, it is a place"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "0"
+        ],
+        "order": 69,
+        "summary": "obama young daughters to in",
+        "content": "president-elect barack obama and his wife , michelle , said their young daughters will still have to do chores in the white house and wo n't get out of doing homework just because they 're the president 's children .",
+        "human_score": 3,
+        "questions": [
+            "Are Obama's daughters young?",
+            "Do Obama's daughters belong to him?",
+            "Were Obama's daughters in somewhere?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            0
+        ],
+        "pic_ans_context": [
+            "Yes",
+            "No",
+            "No, they were not"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "1",
+            "1"
+        ],
+        "order": 254,
+        "summary": ".s. coast guard ## cuban migrants to",
+        "content": "the u.s. coast guard returned ## cuban migrants to the communist country thursday .",
+        "human_score": 4,
+        "questions": [
+            "Is the entity 'U.S. Coast Guard' mentioned in the sentence?",
+            "Is the entity 'Cuban migrants' mentioned in the sentence?",
+            "Is there a relationship between the U.S. Coast Guard and Cuban migrants in the sentence?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            1
+        ],
+        "pic_ans_context": [
+            "Yes",
+            "No",
+            "Yes"
+        ]
+    },
+    {
+        "text_ans": [
+            "1",
+            "0",
+            "0"
+        ],
+        "order": 479,
+        "summary": "baol deng back home for preseason game in",
+        "content": "the nba is sending luol deng back home for a preseason game in the british capital .",
+        "human_score": 3,
+        "questions": [
+            "Is baol Deng a person?",
+            "Did baol Deng go back home?",
+            "Did baol Deng go back home for a preseason game?"
+        ],
+        "pic_ans": [
+            1,
+            0,
+            1
+        ],
+        "pic_ans_context": [
+            "yes",
+            "No",
+            "yes"
+        ]
+    }
+]

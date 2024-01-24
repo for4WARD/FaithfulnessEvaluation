@@ -4,7 +4,7 @@ import json
 with open ("./test_text.txt") as f:
     lines= f.readlines()
     lines1 = [line.strip() for line in lines]
-with open ("./test_summary.txt") as f:
+with open ("./test_model_summary.txt") as f:
     lines= f.readlines()
     lines2 = [line.strip() for line in lines]
 with open ("./test_human_score.txt") as f:
@@ -44,7 +44,7 @@ for i in range(len(lines1)):
         content+='Please give your response.'
     
         completion = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4",
         messages=[
             {"role": "user", "content": content}
         ]

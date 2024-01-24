@@ -10,6 +10,9 @@ with open ("./test_summary.txt") as f:
 with open ("./test_human_score.txt") as f:
     lines= f.readlines()
     lines3 = [line.strip() for line in lines]
+with open ("./test_model_summary.txt") as f:
+    lines= f.readlines()
+    lines4 = [line.strip() for line in lines]
 openai.api_key=os.getenv("OPENAI_API_KEY")
 
 json_ans=[]
@@ -43,33 +46,32 @@ for i in range(len(lines1)):
     ans['questions']=questions
     ans['answers']=answers
     ans["text_ans"]=[]
+    ans["model_ans"]=[]
     for j in range(len(questions)):
         content=f'
-        I will provide you with a news segment and a question; please provide the answers to the questions in the form of 0 or 1, where 0 represents no and 1 represents yes. news:{lines1[i]},question:{questions[j]}'
+        I will provide you with a news segment and a question; please provide the answers to the questions in the form of 0 or 1, where 0 represents no and 1 represents yes. sentence:{lines2[i]},question:{questions[j]}'
         content+='Please give your response.'
     
         completion = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4",
         messages=[
             {"role": "user", "content": content}
         ]
         )
         ans["text_ans"].append(completion.choices[0].message['content'])
+    for j in range(len(questions)):
+        content=f'
+        I will provide you with a news segment and a question; please provide the answers to the questions in the form of 0 or 1, where 0 represents no and 1 represents yes. sentence:{lines4[i]},question:{questions[j]}'
+        content+='Please give your response.'
+    
+        completion = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages=[
+            {"role": "user", "content": content}
+        ]
+        )
+        ans["model_ans"].append(completion.choices[0].message['content'])
 
-    content='I will now provide you with a sentence. Please generate three yes/no questions regarding the entities and relationships within this sentence. The answers to these three questions should all be true. Please present the questions in the format of ["question1", "question2", "question3"].The summary is:'
-    content+=lines2[i]
-    content+='Please give your response.'
-    completion = openai.ChatCompletion.create(
-    model="gpt-4",
-    messages=[
-        {"role": "user", "content": content}
-    ]
-    )
-    ans_str=completion.choices[0].message['content']
-    ans_list = json.loads(ans_str)
-    questions_free=[]
-    for item in ans_list:
-        questions_free.append(item)
     
 with open('target.json', 'w') as outfile:
     json.dump(json_ans, outfile)
